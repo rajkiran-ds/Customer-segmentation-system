@@ -13,7 +13,9 @@ A machine learning unsupervised learning system that segments customers into mea
 
 ## Problem Statement
 
-Businesses often struggle to understand the diversity within their customer base. A one-size-fits-all approach leads to poor targeting, wasted marketing spend, and low customer retention. ClusterSense AI solves this by applying unsupervised machine learning to segment customers into distinct behavioral groups — enabling data-driven personalization at scale.
+ClusterSense AI, a growing retail analytics company, wants to improve its marketing strategies by identifying hidden customer segments from transaction and behavioral data. Currently, the business applies the same campaigns to all customers, leading to low conversion rates and inefficient customer targeting.
+
+To solve this, an unsupervised machine learning clustering system was built using customer demographic and purchasing behavior data. The objective is to discover meaningful customer groups using **K-Means**, **Agglomerative Clustering**, and **DBSCAN** — evaluated using the **Elbow Method** and **Silhouette Score** to identify optimal clusters and improve segmentation quality.
 
 ---
 
